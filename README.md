@@ -1,18 +1,11 @@
-<br clear="both">
-
 <h1 align="left">🚀 Hey there, I'm Charan!</h1>
 
 <h2 align="left">💻 Full-Stack Developer | 🚀 Building Scalable Apps | 🧑‍💡 Tech Enthusiast</h2>
 
-###
-
-<br clear="both">
-
-<h3 align="left">Welcome to my GitHub! I'm a passionate Full-Stack Developer who loves crafting minimalistic, high-performance applications. Whether it's Next.js, Flutter, Node.js, or Firebase, I'm always exploring new ways to build efficient and scalable solutions.<br><br>🔥 What I Do:<br>    🛠 Web & Mobile Development – Next.js, React, Flutter, Node.js<br>    ⚡ Optimized & Smooth UI/UX – Tailwind CSS, Animations<br>    🔍 Problem-Solving & Automation – Python, TypeScript<br><br>🚧 Currently Working On:<br>    Prime Cart (Grocery V2)</h3>
-
-###
-
-<br clear="both">
+<h3 align="left">Welcome to my GitHub! I'm a passionate Full-Stack Developer who loves crafting minimalistic, high-performance applications. Whether it's Next.js, Flutter, Node.js, or Firebase, I'm always exploring new ways to build efficient and scalable solutions.
+<br> 
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -38,7 +31,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
+<br>
+<h2>🔥 What I Do:</h2>  
+<li> 
+🛠 Web & Mobile Development – Next.js, React, Flutter, Node.js
+</li>
+<li>⚡ Optimized & Smooth UI/UX – Tailwind CSS, Animations
+</li>
+<li>🔍 Problem-Solving & Automation – Python, TypeScript
+</li>
+<br>
+<h2>🚧 Currently Working On: </h2>
+<li><a href="https://github.com/charan-nunnabhatla/prime-cart-frontend">
+Prime Cart
+</a>(Grocery V2)</h3>
+</li>
+
+<br clear="both">
+
 
 <br clear="both">
 

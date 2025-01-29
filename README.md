@@ -2,10 +2,6 @@
 
 <h1 align="left">🚀 Hey there, I'm Charan!</h1>
 
-###
-
-<br clear="both">
-
 <h2 align="left">💻 Full-Stack Developer | 🚀 Building Scalable Apps | 🧑‍💡 Tech Enthusiast</h2>
 
 ###
@@ -63,8 +59,13 @@
 <br clear="both">
 
 <div align="center">
+<a href='https://www.linkedin.com/in/charan-nunnabhatla/'>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:charannunnabhatla@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
 </div>
 
 ###

@@ -42,9 +42,9 @@
 </li>
 <br>
 <h2>🚧 Currently Working On: </h2>
-<li><a href="https://github.com/charan-nunnabhatla/prime-cart-frontend">
-Prime Cart
-</a>(Grocery V2)</h3>
+<li><a href="">
+AI-Powered Python Tutor for Kids ( for private company ). 
+</a></h3>
 </li>
 
 <br clear="both">

@@ -42,9 +42,9 @@
 </li>
 <br>
 <h2>🚧 Currently Working On: </h2>
-<li><a href="">
+<li>
 AI-Powered Python Tutor for Kids ( for private company ). 
-</a></h3>
+</h3>
 </li>
 
 <br clear="both">

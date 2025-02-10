@@ -43,7 +43,7 @@
 <br>
 <h2>🚧 Currently Working On: </h2>
 <li>
-AI-Powered Python Tutor for Kids ( for private company ). 
+Integrating AI to my groceries website. 
 </h3>
 </li>
 
